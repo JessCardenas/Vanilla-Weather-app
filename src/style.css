@@ -1,0 +1,14 @@
+body {
+  background-color: aquamarine;
+  font-family: "Quicksand", sans-serif;
+}
+
+.weather-app {
+  background: white;
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 30px;
+  border: 6px solid rgba(207, 195, 233, 0.8);
+  border-radius: 30px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
