@@ -1,5 +1,5 @@
 body {
-  background-color: aquamarine;
+  background-color: #f6f6fa;
   font-family: "Quicksand", sans-serif;
   color: #272044;
 }
@@ -32,12 +32,12 @@ header {
 }
 
 .search-form-button {
-  background-color: aquamarine;
+  background-color: #7b72e6;
   padding: 15px 20px;
   border-radius: 10px;
   border: none;
   font-size: 16px;
-  color: #272044;
+  color: #ffffffea;
   margin-left: 5px;
 }
 
