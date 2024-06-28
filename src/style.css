@@ -103,8 +103,9 @@ main {
 }
 
 .weather-forecast-icon {
-  text-align: center;
-  font-size: 38px;
+  width: 85px;
+  display: block;
+  margin: 0 auto;
 }
 
 .weather-forecast-temperatures {
@@ -115,8 +116,9 @@ main {
 }
 
 .weather-forecast-temperature {
-  padding: 3px 8px;
+  padding: 3px 10px;
 }
+
 footer {
   border-top: 1px solid #cfc3e9cc;
   padding: 30px 0 0 0;
